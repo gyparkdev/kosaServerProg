@@ -1,0 +1,26 @@
+{
+  "name": "kosaServerProg",
+  "version": "1.0.0",
+  "description": "KOSA 서버 프로그램 실습  \r 첫번째 커밋입니다!!",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyparkdev/kosaServerProg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyparkdev/kosaServerProg/issues"
+  },
+  "homepage": "https://github.com/gyparkdev/kosaServerProg#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
